@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9008
     wikipedia: http://en.wikipedia.org/wiki/Norman_Duncan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29696#The-Cruise-of-the-Shining-Light
 gutenberg_issued: '2009-08-15'
 gutenberg_type: Text
 identifiers:
